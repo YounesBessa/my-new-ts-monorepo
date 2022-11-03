@@ -1,0 +1,10 @@
+{
+  "name": "@younesbessa/ts-button",
+  "version": "1.0.0",
+  "description": "A very simple React button in TypeScript within a monorepo",
+  "main": "dist/younesbessa-ts-button.cjs.js",
+  "module": "dist/younesbessa-ts-button.esm.js",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

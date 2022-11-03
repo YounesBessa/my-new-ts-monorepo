@@ -1,0 +1,16 @@
+{
+  "name": "@younesbessa/ts-next-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@preconstruct/next": "^4.0.0",
+    "@younesbessa/ts-button": "1.0.0",
+    "next": "^13.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
